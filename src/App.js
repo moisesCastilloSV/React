@@ -33,7 +33,7 @@ function App() {
       
       />
 
-      <h1>Lista de Productos</h1>
+      <h1>Lista de Productos </h1>
 
       {productos.map(producto => (
         <Producto 
